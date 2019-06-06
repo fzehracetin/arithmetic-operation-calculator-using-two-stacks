@@ -1,4 +1,4 @@
-# Aritmethic Operation Calculator Using Two Stack
+# Arithmetic Operation Calculator Using Two Stack
 
 Calculate an arithmetic operation using operand and operator stacks. Arithmetic operation is given in string format.
 
