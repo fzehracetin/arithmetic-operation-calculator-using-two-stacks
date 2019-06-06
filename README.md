@@ -13,7 +13,7 @@ When we read the input string char by char if the character is a number it must 
 After all reading process we must pop remaining things in two stacks and we must do calculation between them. When the Operator Stack turn into empty the only number in the Operand Stack is the result of the arithmetic operation.
 
 ### Sign Hierarcy
-(upper to lower)
+*(upper to lower)*
 
 - **(**
 
