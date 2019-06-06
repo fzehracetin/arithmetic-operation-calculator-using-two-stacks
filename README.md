@@ -15,11 +15,11 @@ After all reading process we must pop remaining things in two stacks and we must
 ### Sign Hierarcy
 (upper to lower)
 
-   **(**
+- **(**
 
-   **x /**
+- **x /**
 
-   **+ -**
+- **+ -**
 
 ### Example :
 
